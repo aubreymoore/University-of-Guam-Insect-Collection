@@ -47,4 +47,4 @@ Note that digital images of specimens are not currently available. The next plan
 * Reduce backlog of unidentified specimens
 	* visiting taxonomists; loans program
 	* employ modern techniques: DNA barcoding
-* Work with CNMI Collection and other Micronesian collections ????
+* Work with CNMI Collection and other Micronesian collections ??
